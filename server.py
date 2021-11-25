@@ -1,4 +1,9 @@
-"""Server route for healthhub landing page"""
+"""Server route for healthhub landing page."""
+
+# TODO:
+# Fix localhost connection
+# Same images
+# Add CSS styling
 
 from flask import Flask, render_template
 
