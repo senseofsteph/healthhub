@@ -14,14 +14,23 @@
 
     </head>
       <body>
-        <!-- Bootstrap Navigation Bar -->
-
-
+        
         <h1>Health Hub</h1> 
 
-        <div id="searchbar" class="searchbar">
-          
+        <!-- <div id="searchbar" class="searchbar">
+          <input name="Search" type="search" placeholder="What type of health search?">
+        </div>
 
+        <div class="d-grid gap-2 d-md-block">
+          <button class="btn btn-outline-secondary" type="button">Hub Search</button>
+        </div> -->
+
+        <!-- Bootstrap Search Bar -->
+        <div class="hstack gap-3">
+          <input class="form-control me-auto" type="text" placeholder="What health service or product would you like..." aria-label="Type your request here...">
+          <button type="button" class="btn btn-secondary">Submit</button>
+          <div class="vr"></div>
+          <button type="button" class="btn btn-outline-danger">Reset</button>
         </div>
 
         <div id="background" class="background">
