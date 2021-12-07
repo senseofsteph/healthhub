@@ -1,7 +1,7 @@
 /* Styling for Base HTML */
 
 .background {
-  height: 600px;
+  height: 420px;
   width: 100%;
   padding: 30px 0 30px;
   background-image: url(../img/medical-gdb4a9dbb6_1280.png);
@@ -22,7 +22,7 @@
 }
 
 .services {
-  padding: 0px 0 10;
+  padding: 0 0 0 10;
   text-align: center;
 }
 
