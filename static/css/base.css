@@ -22,7 +22,8 @@
 }
 
 .services {
-  padding: 0 0 0 10;
+  /* padding: 0 0 0 10; */
+  padding: 10px 0 0px;
   text-align: center;
 }
 
@@ -36,16 +37,19 @@
   padding-bottom: 40px;
 }
 
+.services i {
+  color: #636363;
+}
+
 h1 {
    text-align: center;
-   /* font-family: "Roboto", sans-serif; */
    color: #636363;
    margin: 40px
 }
 
 body {
   background-color: white; 
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
 }
 
 
