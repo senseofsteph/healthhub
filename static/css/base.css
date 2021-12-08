@@ -3,7 +3,6 @@
 .background {
   height: 420px;
   width: 100%;
-  /* padding: 20px 0 20px; */
   background-image: url(../img/medical-gdb4a9dbb6_1280.png);
   background-position: center;
   background-repeat: no-repeat;
@@ -22,7 +21,6 @@
 }
 
 .services {
-  /* padding: 0 0 0 10; */
   padding: 10px 0 0px;
   text-align: center;
 }
@@ -42,9 +40,9 @@
 }
 
 h1 {
-   text-align: center;
-   color: #636363;
-   margin: 40px
+  text-align: center;
+  color: #636363;
+  margin: 40px
 }
 
 body {
