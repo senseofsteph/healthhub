@@ -9,6 +9,7 @@
   background-size: cover;
 }
 
+/* SEARCH BAR */
 .searchbar {
   display: flex;
   justify-content: center;
@@ -20,6 +21,7 @@
   
 }
 
+/* SERVICES */
 .services {
   padding: 10px 0 0px;
   text-align: center;
@@ -39,6 +41,7 @@
   color: #636363;
 }
 
+/* BODY */
 h1 {
   text-align: center;
   color: #636363;
