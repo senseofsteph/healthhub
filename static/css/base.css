@@ -1,18 +1,20 @@
 /* Styling for Base HTML */
 
 .background {
-  height: 410px;
-  width: 100%;
   background-image: url(../img/medical-gdb4a9dbb6_1280.png);
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  /* background-size: cover; */
+  background-size: contain;
+  height: 400px;
+  width: 100%;
 }
 
 /* SEARCH BAR */
 .searchbar {
   display: flex;
   justify-content: center;
+  padding-bottom: 20px;
 }
 
 .searchbar input {
@@ -45,7 +47,7 @@
 h1 {
   text-align: center;
   color: #636363;
-  margin: 40px
+  padding-top: 40px;
 }
 
 body {
