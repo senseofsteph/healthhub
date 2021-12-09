@@ -1,7 +1,7 @@
 /* Styling for Base HTML */
 
 .background {
-  height: 420px;
+  height: 410px;
   width: 100%;
   background-image: url(../img/medical-gdb4a9dbb6_1280.png);
   background-position: center;
@@ -29,12 +29,12 @@
 
 .services h4 {
   color: #636363;
-  margin: 20px 0 20px
+  margin: 15px 0 15px
 }
 
 .services p {
   font-size: 14px;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
 }
 
 .services i {
