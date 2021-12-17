@@ -11,6 +11,8 @@
 
 /* SEARCH BAR */
 .searchbar {
+  /* display: flex; */
+  position: relative;
   display: flex;
   justify-content: center;
   padding-bottom: 20px;
@@ -19,6 +21,14 @@
 .searchbar input {
   height: 40px;
   width: 600px;
+  text-indent: 30px;
+}
+
+.searchbar .fa-search {
+  position: absolute;
+  top: 12px;
+  left: 6px;
+  font-size: 14px;
 }
 
 /* input[type="text"] {
