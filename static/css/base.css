@@ -11,7 +11,6 @@
 
 /* SEARCH BAR */
 .searchbar {
-  /* display: flex; */
   position: relative;
   display: flex;
   justify-content: center;
@@ -25,10 +24,7 @@
   background-image: url(../img/google-search-magnifying-glass-icon-5.jpeg);
   background-repeat: no-repeat;
   background-position: 1%;
-  /* background-size: contain; */
-  background-size: 15px 15px;
-  
-  
+  background-size: 15px 15px;  
 }
 
 .searchbar .fa-search {
@@ -37,10 +33,6 @@
   left: 6px;
   font-size: 14px;
 }
-
-/* input[type="text"] {
-  font-family: "Raleway", sans-serif;
-} */
 
 /* SERVICES */
 .services {
