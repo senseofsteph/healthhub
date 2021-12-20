@@ -21,7 +21,14 @@
 .searchbar input {
   height: 40px;
   width: 600px;
-  text-indent: 30px;
+  text-indent: 20px;
+  background-image: url(../img/google-search-magnifying-glass-icon-5.jpeg);
+  background-repeat: no-repeat;
+  background-position: 1%;
+  /* background-size: contain; */
+  background-size: 15px 15px;
+  
+  
 }
 
 .searchbar .fa-search {
