@@ -19,12 +19,12 @@
 
 .searchbar input {
   height: 40px;
-  width: 600px;
-  text-indent: 20px;
+  width: 800px;
+  text-indent: 25px;
   background-image: url(../img/google-search-magnifying-glass-icon-5.jpeg);
   background-repeat: no-repeat;
   background-position: 1%;
-  background-size: 15px 15px;  
+  background-size: 15px 15px; 
 }
 
 .searchbar .fa-search {
@@ -55,6 +55,7 @@
 }
 
 /* BODY */
+
 h1 {
   text-align: center;
   color: #636363;
@@ -63,8 +64,5 @@ h1 {
 
 body {
   background-color: white; 
-  font-family: "Raleway", sans-serif;
+  font-family: 'Rubik', sans-serif;
 }
-
-
-
