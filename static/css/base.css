@@ -1,5 +1,17 @@
 /* Styling for Base HTML */
 
+/* BODY */
+h1 {
+  text-align: center;
+  color: #636363;
+  padding-top: 40px;
+}
+
+body {
+  background-color: white; 
+  font-family: 'Rubik', sans-serif;
+}
+
 .background {
   background-image: url(../img/medical-gdb4a9dbb6_1280.png);
   background-position: center;
@@ -52,17 +64,4 @@
 
 .services i {
   color: #636363;
-}
-
-/* BODY */
-
-h1 {
-  text-align: center;
-  color: #636363;
-  padding-top: 40px;
-}
-
-body {
-  background-color: white; 
-  font-family: 'Rubik', sans-serif;
 }
