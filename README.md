@@ -4,6 +4,8 @@
 
 A landing page where users can search for health and wellness services
 
+<img src="https://github.com/senseofsteph/healthhub/blob/master/static/img/health_hub_gif.gif"width="400">
+
 ### Technologies
 
 **Back-end:**
