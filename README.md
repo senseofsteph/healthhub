@@ -1,4 +1,4 @@
-## Health Hub
+## HealthHub
 
 ### Overview
 
@@ -14,6 +14,9 @@ A landing page where users can search for health and wellness services
 Python and Flask<br>
 **Front-end:**
 HTML, CSS, Bootstrap<br>
+
+### Future features
+- Autocomplete text in search input
 
 ### Connect with the developer
 
